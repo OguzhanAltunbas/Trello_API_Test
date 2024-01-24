@@ -1,0 +1,68 @@
+12:57:52.815 [main] INFO  utils.Logger - Test Start Time12:57:52:243
+12:57:55.278 [main] INFO  utils.Logger - Expected: New_Pano
+Actual: New_Pano
+12:57:55.279 [main] INFO  utils.Logger - Board has been created!
+12:57:55.304 [main] INFO  utils.Logger - Board ID: 65b0df222c01296f5758a5d5
+12:57:55.746 [main] INFO  utils.Logger - Expected: New_List1
+Actual: New_List1
+12:57:55.746 [main] INFO  utils.Logger - List has been created!
+12:57:55.756 [main] INFO  utils.Logger - List ID: 65b0df2317cb2196aca015ce
+12:57:56.170 [main] INFO  utils.Logger - Expected: New_List2
+Actual: New_List2
+12:57:56.170 [main] INFO  utils.Logger - List has been created!
+12:57:56.179 [main] INFO  utils.Logger - List ID: 65b0df2405e515c2a96d8612
+12:57:56.714 [main] INFO  utils.Logger - Expected: New_Card1
+Actual: New_Card1
+12:57:56.714 [main] INFO  utils.Logger - Cart has been created!
+12:57:56.727 [main] INFO  utils.Logger - First Card ID: 65b0df2444dc70c4e4084b74
+12:57:57.379 [main] INFO  utils.Logger - Expected: New_Card2
+Actual: New_Card2
+12:57:57.379 [main] INFO  utils.Logger - Cart has been created!
+12:57:57.393 [main] INFO  utils.Logger - Second Card ID: 65b0df25b7cc43416caa72ba
+12:57:57.854 [main] INFO  utils.Logger - Expected: Updated_Card
+Actual: Updated_Card
+12:57:57.855 [main] INFO  utils.Logger - Card updated!
+12:57:59.191 [main] INFO  utils.Logger - Expected: null
+Actual: null
+12:57:59.192 [main] INFO  utils.Logger - First Card deleted!
+12:57:59.207 [main] INFO  utils.Logger - Expected: null
+Actual: null
+12:57:59.208 [main] INFO  utils.Logger - Second Card deleted!
+12:58:00.661 [main] INFO  utils.Logger - Expected: null
+Actual: null
+12:58:00.661 [main] INFO  utils.Logger - Board deleted!
+12:58:00.662 [main] INFO  utils.Logger - Test Finish Time12:58:00:662
+14:17:25.688 [main] INFO  utils.Logger - Test Start Time14:17:24:921
+14:17:28.706 [main] INFO  utils.Logger - Expected: New_Pano
+Actual: New_Pano
+14:17:28.707 [main] INFO  utils.Logger - Board has been created!
+14:17:28.743 [main] INFO  utils.Logger - Board ID: 65b0f1c7ddd1a41e5296d0b8
+14:17:29.202 [main] INFO  utils.Logger - Expected: New_List1
+Actual: New_List1
+14:17:29.203 [main] INFO  utils.Logger - List has been created!
+14:17:29.216 [main] INFO  utils.Logger - List ID: 65b0f1c9d2a53edc8277034e
+14:17:29.646 [main] INFO  utils.Logger - Expected: New_List2
+Actual: New_List2
+14:17:29.646 [main] INFO  utils.Logger - List has been created!
+14:17:29.655 [main] INFO  utils.Logger - List ID: 65b0f1c9f364e8c2cba0b6e3
+14:17:30.194 [main] INFO  utils.Logger - Expected: New_Card1
+Actual: New_Card1
+14:17:30.194 [main] INFO  utils.Logger - Cart has been created!
+14:17:30.211 [main] INFO  utils.Logger - First Card ID: 65b0f1ca12bbb38a4192bb1b
+14:17:30.890 [main] INFO  utils.Logger - Expected: New_Card2
+Actual: New_Card2
+14:17:30.891 [main] INFO  utils.Logger - Cart has been created!
+14:17:30.906 [main] INFO  utils.Logger - Second Card ID: 65b0f1ca0a21a4cb3eef582c
+14:17:31.653 [main] INFO  utils.Logger - Expected: Updated_Card
+Actual: Updated_Card
+14:17:31.653 [main] INFO  utils.Logger - Card updated!
+14:17:33.106 [main] INFO  utils.Logger - Expected: null
+Actual: null
+14:17:33.106 [main] INFO  utils.Logger - First Card deleted!
+14:17:33.113 [main] INFO  utils.Logger - Expected: null
+Actual: null
+14:17:33.114 [main] INFO  utils.Logger - Second Card deleted!
+14:17:34.755 [main] INFO  utils.Logger - Expected: null
+Actual: null
+14:17:34.756 [main] INFO  utils.Logger - Board deleted!
+14:17:34.757 [main] INFO  utils.Logger - Test Finish Time14:17:34:757
